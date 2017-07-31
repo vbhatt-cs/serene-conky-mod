@@ -1,0 +1,17 @@
+weather:
+    enabled: True
+    key: b183fb5a17c3c8af30996114297724ed
+    latitude: 18.975
+    longitude: 72.8258
+    units: ca
+quote:
+    enabled: True
+    url: http://www.brainyquote.com/quotes_of_the_day.html
+fact:
+    enabled: True
+    url: https://www.sciencedaily.com/rss/computers_math.xml
+system:
+    enabled: True
+    elements:
+        battery: False
+        home: True
